@@ -3,6 +3,8 @@
 - [Mike Hoye](http://exple.tive.org/)
 - [Greg Wilson](http://third-bit.com/)
 
+This advice is for founders who are handing on their projects.
+
 1.  **Be sure you mean it.**
     Letting go will be hard on you,
     but not letting go will be even harder on your successors,
@@ -27,13 +29,23 @@
     Go on holiday for a week and leave your successor temporarily in charge.
     You'll discover even more things you would otherwise forget to pass on.
 
-6.  **Give them room.**
-    Ex-presidents move out of Washington for good reasons.
+6.  **No secrets.**
+    Tell people that you're leaving and what the succession plan is
+    as soon as possible
+    (which in practice means
+    "as soon as there is little chance of having to revise what you have said publicly").
 
-7.
+7.  FIXME
 
-8.
+8.  FIXME
 
-9.
+9.  **Leave.**
+    It may be tempting to continue to have a role in the organization,
+    but that usually leads to confusion,
+    since people are used to looking to you for answers.
+    It will be easier for your successor,
+    particularly if they weren't a founder as well,
+    but the best thing you can do to help them is to find something else to do for a year.
 
-10. 
+10. **Don't look back.**
+    FIXME
