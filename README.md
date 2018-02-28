@@ -37,7 +37,10 @@ This advice is for founders who are handing on their projects.
 
 7.  FIXME
 
-8.  FIXME
+8.  **No backchannels.**
+    The decisions, and consequences, belong to your successor.
+    Advise them in private; support them in public.
+    Do not undermine the credibility you've granted them.
 
 9.  **Leave.**
     It may be tempting to continue to have a role in the organization,
